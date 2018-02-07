@@ -7,6 +7,8 @@
 // Geändert: 30.01.2018 --> Versuche mit neuer Menüstruktur (show/hide)
 // Geändert: 03.02.2018 --> Umbau der Menüstruktur (show/hide), Menüpunkte erweitern
 
+
+
 #include <Arduino.h>
 #include <U8g2lib.h>
 #include "Library_LaserCutter_V3.h"
