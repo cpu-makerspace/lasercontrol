@@ -1,6 +1,6 @@
 ///////////////////////// Variablendeklarationen (Global)	
 
-#include <ClickEncoder.h>		// Routinen für den Drehimpulsgeber
+//#include <ClickEncoder.h>		// Routinen für den Drehimpulsgeber
 
 const int ledPin =  13;      // the number of the LED pin
 bool ledState = LOW;             // ledState used to set the LED
@@ -23,7 +23,7 @@ bool menue_dec = false;
 bool piezzo_state;
 
 
-ClickEncoder::Button button_pressed;
+//ClickEncoder::Button button_pressed;
 bool me_button = false;
 bool touch_button = false;
 
